@@ -4,7 +4,12 @@ img
     height: 200px;
 }
 
-.jumbotron {
+.jumbotron 
+{
     text-align: center;
     background: orange;
+}
+.col-sm-4
+{
+    padding-left: 150px;
 }
