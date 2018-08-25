@@ -1,0 +1,10 @@
+img
+{
+    widows: 200px;
+    height: 200px;
+}
+
+.jumbotron {
+    text-align: center;
+    background: orange;
+}
